@@ -37,7 +37,11 @@ Por meio da **Zuarts**, desenvolvo projetos que integram tecnologia, inovação 
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em Destaque
+
+Conheça algumas das soluções digitais desenvolvidas
+pela Zuarts, abrangendo educação, saúde, gestão pública,
+comércio, esportes e entretenimento.
 
 <table>
 <tr>
@@ -110,6 +114,37 @@ Projeto de desenvolvimento de jogos digitais, explorando experiências interativ
 > Alguns projetos possuem repositórios privados ou estão em desenvolvimento. Informações e demonstrações poderão ser disponibilizadas futuramente.
 
 ---
+
+
+## 🚀 Alguns Projetos Desenvolvidos
+
+Soluções digitais desenvolvidas em diferentes áreas,
+incluindo educação, saúde, gestão pública, comércio,
+esportes e entretenimento.
+
+| Projeto | Categoria | Descrição | Acesso |
+|---|---|---|---|
+| 🎓 **CPM Conecta** | Gestão Escolar | Plataforma de comunicação, organização e acompanhamento das atividades escolares. | [Acessar](https://cpm-conecta.zuarts.online/) |
+| 📚 **AVA Zuarts** | Educação Digital | Ambiente Virtual de Aprendizagem baseado em Moodle, com cursos, conteúdos e atividades online. | [Acessar](https://ava.zuarts.online/) |
+| 🏙️ **SOS Jampa** | Tecnologia Cívica | Plataforma para registro e acompanhamento de problemas urbanos e participação cidadã. | [Acessar](https://sosjampa.zuarts.online/) |
+| 🩺 **Indxmed** | Saúde Digital | Plataforma de conexão com telemedicina e ecossistema de benefícios. | [Acessar](https://indxmed.com.br/) |
+| 🥋 **Campeonato de Jiu-Jitsu** | Gestão Esportiva | Gerenciamento de atletas, inscrições, categorias, chaves de luta e organização de competições. | [Acessar](https://campeonato.zuarts.online/) |
+| 🎮 **Echoes of Darkness** | Desenvolvimento de Jogos | Jogo digital 3D com exploração e experiências interativas. | [Vídeo](https://www.youtube.com/watch?v=5KJUOvR7TXM) |
+| 🍽️ **Restaurante Espaço Militar** | Food Service | Cardápio digital, carrinho de compras e pedidos pelo WhatsApp. | [Acessar](https://www.restauranteespacomilitar.online/) |
+| ⚖️ **Ceres Rabelo Advocacia** | Website Institucional | Site especializado em serviços jurídicos relacionados a concursos públicos. | [Acessar](https://ceresrabelo.online/) |
+
+---
+
+### 🌐 Zuarts Inova Simples
+
+Desenvolvimento de sistemas web, plataformas digitais,
+soluções educacionais, aplicativos e projetos de inovação.
+
+🌍 **Website:** https://zuarts.online/
+
+💻 **GitHub:** https://github.com/ederpbj
+
+--- 
 
 ## 🛠️ Tecnologias e ferramentas
 
